@@ -1,22 +1,3 @@
-Customer ID,Customer,Country ID
-39,Customer A,1
-41,Customer B,2
-57,Customer C,3
-64,Customer D,3
-65,Customer E,3
-69,Customer F,3
-70,Customer G,3
-72,Customer H,3
-80,Customer I,3
-92,Customer J,3
-94,Customer K,3
-96,Customer L,3
-161,Customer M,4
-181,Customer N,4
-220,Customer O,4
-224,Customer P,4
-237,Customer Q,4
-252,Customer R,4
-259,Customer S,5
-267,Customer T,5
-270,Customer U,5
+Crop,Crop ID
+Hypericum,1
+Roses,2
