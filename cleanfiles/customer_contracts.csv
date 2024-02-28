@@ -1,4 +1,4 @@
-Customer ID,Date,Contracted Stems,Crop ID
+customer_id,date,contracted_stems,crop_id
 39,7/1/2021,857.1428571,1
 39,7/1/2021,28571.42857,2
 220,7/1/2021,10000,2
